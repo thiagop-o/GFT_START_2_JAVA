@@ -1,0 +1,30 @@
+classes/usuario/ProgramaDoSuperUsuario.java
+ classes.usuario.ProgramaDoSuperUsuario
+abstracts/FormaGeometrica.java
+ abstracts.FormaGeometrica
+abstracts/Programa.java
+ abstracts.Programa
+classes/pessoa/ProgramaDoCliente.java
+ classes.pessoa.ProgramaDoCliente
+Programa.java
+ Programa
+classes/cliente/ProgramaDoCliente.java
+ classes.cliente.ProgramaDoCliente
+classes/pessoa/PessoaFisica.java
+ classes.pessoa.PessoaFisica
+abstracts/Quadrado.java
+ abstracts.Quadrado
+classes/cliente/Cliente.java
+ classes.cliente.Cliente
+classes/pessoa/ProgramaDoUsuario.java
+ classes.pessoa.ProgramaDoUsuario
+classes/pessoa/ProgramaPessoaFisica.java
+ classes.pessoa.ProgramaPessoaFisica
+classes/usuario/SuperUsuario.java
+ classes.usuario.SuperUsuario
+classes/Programa.java
+ classes.Programa
+classes/pessoa/Usuario.java
+ classes.pessoa.Usuario
+classes/pessoa/Pessoa.java
+ classes.pessoa.Pessoa
