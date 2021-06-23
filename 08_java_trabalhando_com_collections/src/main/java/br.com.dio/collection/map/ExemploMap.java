@@ -80,6 +80,8 @@ public class ExemploMap {
         System.out.println("Exiba a média dos consumos deste dicionário de carros: " + (soma/carrosPopulares.size()));
 
         System.out.println(carrosPopulares);
+
+
         System.out.println("Remova os modelos com o consumo igual a 15,6 km/l: ");
         Iterator<Double> iterator1 = carrosPopulares.values().iterator();
         while(iterator1.hasNext()){
